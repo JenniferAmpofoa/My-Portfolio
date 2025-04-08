@@ -1,0 +1,149 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.project-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    transition: transform 0.3s;
+}
+
+.project-card:hover {
+    transform: scale(1.05);
+}
+
+
+footer {
+    background-color: #f8f9fa;
+    padding: 10px;
+    position: absolute;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+    text-align: center;
+    font-size: 14px;
+    color: #6c757d;
+}
+
+.project-card h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+.project-card p {
+    font-size: 1em;
+    color: #555;
+}
+
+.project-card a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}
+.project-card a:hover {
+    text-decoration: underline;
+}
+
+
+.project-card img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+.project-card .project-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+
+.project-card .project-description {
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 10px;
+}
+.project-card .project-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.project-card .project-link:hover {
+    background-color: #0056b3;
+}
+.project-card .project-link:active {
+    background-color: #004085;
+}
+
+
+.project-card .project-link:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+}
+.project-card .project-link:visited {
+    color: #da46b5;
+}
+
+.project-card .project-link:visited:hover {
+    color: #68175a;
+}
+.project-card .project-link:visited:active {
+    color: #fff;
+}
+.project-card .project-link:visited:focus {
+    color: #fff;
+}
+.project-card .project-link:visited:focus:hover {
+    color: #fff;
+}
+
+.project-card .project-link:visited:focus:active {
+    color: #fff;
+}
+.project-card .project-link:visited:focus:active:hover {
+    color: #fff;
+}
+.project-card .project-link:visited:focus:active:focus {
+    color: #fff;
+}
+.project-card .project-link:visited:focus:active:focus:hover {
+    color: #fff;
+}
+
+.project-card .project-link:visited:focus:active:focus:active {
+    color: #fff;
+}
+.project-card .project-link:visited:focus:active:focus:active:hover {
+    color: #fff;
+}
+.project-card .project-link:visited:focus:active:focus:active:focus {
+    color: #fff;
+}
+.project-card .project-link:visited:focus:active:focus:active:hover {
+    color: #fff;
+}
+
+.project-card .project-link:visited:focus:active:focus:active:active {
+    color: #232657;
+}
+.project-card .project-link:visited:focus:active:focus:active:hover {
+    color: #6b2359;
+}
+.project-card .project-link:visited:focus:active:focus:active:focus {
+    color: #133057;
+}
+.project-card .project-link:visited:focus:active:focus:active:hover {
+    color: #fff;
+}
+.project-card .project-link:visited:focus:active:focus:active:active {
+    color: #fff;
+}
+.project-card .project-link:visited:focus:active:focus:active:hover {
+    color: #ffffff;
+}
